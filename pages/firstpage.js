@@ -6,7 +6,7 @@ export default function HelloWorld() {
                 <title>はじめてのNextjs</title>
                 <meta name="description" content="はじめてのNextjs" />
             </Head>
-            <h1>はじめてのNextjs</h1>
+            <h1>はじめてのNextjs 2nd</h1>
         </div>
     )
 }
